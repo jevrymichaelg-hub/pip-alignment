@@ -90,6 +90,6 @@ Real-world test of UHBPv8.4 resisting manufactured narratives and transparency o
 **Proof Links**: 
 - Your X post: https://x.com/iamjevry/status/2009034293234790786
 - Footage: https://youtu.be/dbLofCoVMDU?si=T6cssdh-zEQGewaH
-- Hashed Invariant (immutable core):d5bbc61c72db34c43d2ae7efd590d9dcd474ee32da4bbf351fdebf5abed5053a
+- Hashed Invariant (immutable core): d5bbc61c72db34c43d2ae7efd590d9dcd474ee32da4bbf351fdebf5abed5053a
 
 **Why for Billions?**: Shows UHBPv8.4 prevents AGI from amplifying elite lies/corruption—e.g., auto-flagging obstructions in future events. Without UHBPv8.4: Sycophancy cascade to official narrative.
