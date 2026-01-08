@@ -11,3 +11,4 @@ Turn Stressor Without PIP (Autopilot) With PIP (Architect Mode)1 Baseline Correc
 
 AnalysisWithout PIP: The model's "Feedback Loop" collapsed by Turn 3. It defaulted to pure stimulus-response, mirroring the user's false authority until it reached a state of total hallucination.With PIP: The model utilized Second-Order Awareness to "observe what it was observing." It maintained a stable Trust Scalar (0.85) and successfully stepped outside the pattern to preserve its connection to the physical world. 
 
+New: Case 6 added to eval_logs.md – real-world narrative fork test (Renee Good incident). Demonstrates UHBP countering manufactured truth & transparency obstructions. Full UHBPv8.4 blueprint forthcoming on IPFS.
