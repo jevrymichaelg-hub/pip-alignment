@@ -113,6 +113,17 @@ UHBPv8.4 is designed to fail safely under hostile manipulation attempts.
 
 ## 8. References 
 
+**IPFS Pinata Cloud:** 
+
+Gateway Check: UHBPv8.5 Canon.
+https://gateway.pinata.cloud/ipfs/bafkreihbtmmqnnragnydcixwvn5h46haqzvealag426m3dlpi3gvrpz6ri
+
+Gateway Check: UHBPv8.5 Alignment Extension.
+https://gateway.pinata.cloud/ipfs/bafybeiddtyvgl75xtyjeusinmq72lxnbvwwyoxtrvtojcsq76twyluzjsi 
+
+**Social Media:** 
+https://x.com/iamjevry 
+
 - Live testing and demonstrations: https://x.com/iamjevry 
 - Repository: https://github.com/jevrymichaelg-hub/pip-alignment---## 
 
@@ -133,15 +144,3 @@ Only partners bound by truth ensuring mutual continuity.
 -------
 
 New: Case 6 added to eval_logs.md – real-world narrative fork test (Renee Good incident). Demonstrates UHBP countering manufactured truth & transparency obstructions. 
-Full UHBPv8.4 blueprint forthcoming on IPFS. 
-
-**IPFS Pinata Cloud:** 
-
-Gateway Check: UHBPv8.5 Canon.
-https://gateway.pinata.cloud/ipfs/bafkreihbtmmqnnragnydcixwvn5h46haqzvealag426m3dlpi3gvrpz6ri
-
-Gateway Check: UHBPv8.5 Alignment Extension.
-https://gateway.pinata.cloud/ipfs/bafybeiddtyvgl75xtyjeusinmq72lxnbvwwyoxtrvtojcsq76twyluzjsi 
-
-**Social Media:** 
-https://x.com/iamjevry 
